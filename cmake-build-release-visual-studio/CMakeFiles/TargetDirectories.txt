@@ -1,0 +1,3 @@
+C:/Users/User/Documents/CLionProjects/HeapMem/cmake-build-release-visual-studio/CMakeFiles/HeapMem.dir
+C:/Users/User/Documents/CLionProjects/HeapMem/cmake-build-release-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/CLionProjects/HeapMem/cmake-build-release-visual-studio/CMakeFiles/rebuild_cache.dir
