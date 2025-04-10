@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/user/Документы/GitHub/HeapMem",
+  "arguments": ["/usr/bin/x86_64-w64-mingw32-gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-DNDEBUG", "-o", "build/.objs/HeapMem/mingw/x86_64/release/main.c.obj", "main.c"],
+  "file": "main.c"
+}]
